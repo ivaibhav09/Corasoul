@@ -1,0 +1,8 @@
+                                     Assignment: I
+
+In this assignment the task is  to create responsive corausel for given products in home page section.
+
+>> Starting with creating html boiler plate code further link custom styling to write CSS code, script file to write javascript code.
+>> This whole code logic is written by my own where a have created the products div and assign them id as well.
+>> In javascript code using queryselector to access the element and creating function to update corausel along with this 
+for the given button adding eventlistener to update value.
